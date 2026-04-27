@@ -76,10 +76,10 @@ By the end of this lab, you will be able to:
 
 4. Record the following information:
    ```
-   Engine Name: _________________
-   Engine Type: _________________
-   Status: _________________
-   Number of Nodes: _________________
+   Engine Name: presto-01
+   Engine Type: Presto (Java) v0.286
+   Status: Starter
+   Number of Nodes: 1
    ```
 
 ### Step 3: Explore Catalogs
